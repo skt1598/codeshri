@@ -1,2 +1,0 @@
-# codeshri
-personal website

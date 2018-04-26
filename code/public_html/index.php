@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -204,7 +205,7 @@ var zilla_likes = {"ajaxurl":"http:\/\/104.131.177.38\/demo\/wp\/iamx\/wp-admin\
 		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://104.131.177.38/demo/wp/iamx/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://104.131.177.38/demo/wp/iamx/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1467136222667{background-color: #ffffff !important;}.vc_custom_1467136235256{padding-top: 120px !important;background-color: #ffffff !important;}.vc_custom_1459810557797{padding-top: 50px !important;padding-bottom: 100px !important;background-color: #ffffff !important;}.vc_custom_1467136246705{padding-top: 120px !important;padding-bottom: 100px !important;background-color: #1a1e23 !important;}.vc_custom_1467136374326{padding-top: 120px !important;padding-bottom: 110px !important;background-color: #ffffff !important;}.vc_custom_1467136508118{padding-top: 130px !important;padding-bottom: 100px !important;}.vc_custom_1465280214674{padding-top: 110px !important;padding-bottom: 110px !important;}.vc_custom_1467136533390{padding-top: 125px !important;padding-bottom: 100px !important;}.vc_custom_1459716795561{margin-top: 100px !important;margin-bottom: 100px !important;}.vc_custom_1465200538374{margin-top: 50px !important;margin-bottom: 100px !important;}.vc_custom_1462078468210{background-image: url(http://localhost/iamx/wp-content/uploads/2016/01/Candidate-political.jpg?id=2928) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1459746613009{background-color: #ffffff !important;}.vc_custom_1465201911551{padding-bottom: 35px !important;}.vc_custom_1465202259125{padding-top: 10px !important;padding-bottom: 30px !important;}.vc_custom_1459875720144{padding-bottom: 50px !important;}.vc_custom_1462435414479{padding-top: 115px !important;padding-bottom: 115px !important;}.vc_custom_1460851505925{margin-bottom: 50px !important;}.vc_custom_1460352398196{margin-bottom: 30px !important;}.vc_custom_1460353252369{margin-bottom: 50px !important;}.vc_custom_1464627285804{margin-bottom: 40px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
-<body id="home" onload="initialize()" class="home page page-id-2320 page-template page-template-page-templates page-template-template-home page-template-page-templatestemplate-home-php header-banner-one wpb-js-composer js-comp-ver-4.9.2 vc_responsive" data-spy="scroll" data-target=".navbar" data-offset="100">
+<body id="home"  class="home page page-id-2320 page-template page-template-page-templates page-template-template-home page-template-page-templatestemplate-home-php header-banner-one wpb-js-composer js-comp-ver-4.9.2 vc_responsive" data-spy="scroll" data-target=".navbar" data-offset="100">
             <div id="preloader" style="background-color: #ffffff">
             <div id="status">
                 <div class="status-mes" style="background-image: url(http://104.131.177.38/demo/wp/iamx/wp-content/themes/iamx/images/preloader.gif);"></div>
@@ -216,12 +217,12 @@ var zilla_likes = {"ajaxurl":"http:\/\/104.131.177.38\/demo\/wp\/iamx\/wp-admin\
 
             <div class="intro-sub">I am Shrikant Sharma <div>(Shri)</div></div>
 		
-					<h1>Creative  <span> Developer</span></h1>
+					<h1><span>Creative</span>  Developer</h1>
 				
 		<div class="intro-description">
 			I am a fully professional freelance creative User Interface Designer &amp; Web Developer
-Involving with latest web designing and technologies is a great
-feel free to contact creative.		</div> <!-- .intro-description -->
+Involving with latest web designing and development technologies.
+Feel free to contact.		</div> <!-- .intro-description -->
 		
 					<div class="social-icons">
     <ul class="list-inline">
@@ -250,7 +251,7 @@ feel free to contact creative.		</div> <!-- .intro-description -->
 
                     <div class="navbar-brand">
                         <h1>
-                            <a href="">
+                            <a href="index.php">
                                 <span style="color:black">I am</span> <span>Shri</span>
                             </a>
                         </h1>
@@ -274,8 +275,6 @@ feel free to contact creative.		</div> <!-- .intro-description -->
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3550  has-menu-child"><a title="About" href="#about">About</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3551  has-menu-child"><a title="Resume" href="#resume">Resume</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3552  has-menu-child"><a title="Skills" href="#skills">Skills</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3553  has-menu-child"><a title="Works" href="#works">Works</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3554  has-menu-child"><a title="Blog" href="#blog">Blog</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3555  has-menu-child"><a title="Contact" href="#contact">Contact</a></li>
 </ul>                    </div> <!-- /.navbar-collapse -->
                 </div>
@@ -311,7 +310,7 @@ feel free to contact creative.		</div> <!-- .intro-description -->
                             <li><strong>Address:&nbsp;</strong>#270, Sec-28, Gurugram, 122009, Haryana, India </li>
                             <li><strong>Nationality:&nbsp;</strong>Indian </li>
                             <li><strong>Phone:&nbsp;</strong>(+91) 7355165949</li>
-                            <li><strong>Email:&nbsp;</strong>skt1598@gmail.com </li>
+                            <li><strong>Email:&nbsp;</strong>shri@codeshri.com </li>
                     </ul>
     </div>
 </div>
@@ -323,7 +322,7 @@ feel free to contact creative.		</div> <!-- .intro-description -->
 </div>
 <div class="short-info wow fadeInUp">
 <h3>What I Do ?</h3>
-<p>Currently I'm working as a Intern(full stack developement) in Trizin Infotech Pvt, Ltd. and I'm also a freelancer. I have a love of clean, elegant styling, and I have good  experience in the production of modern websites. I loving creating awesome as per my clients’ need. I think user experience when I try to craft something for my clients. Making a design awesome.</p>
+<p>Currently I'm working as a Intern(full stack developer) in Trizin Infotech Pvt, Ltd. and I'm also a freelancer. I have a love of clean, elegant styling, and I have good  experience in the production of modern websites. I loving creating awesome as per my clients’ need. I think user experience when I try to craft something for my clients. Making the work awesome.</p>
 <ul class="list-check">
 <li>User Experience Design</li>
 <li>Interface Design</li>
@@ -336,7 +335,8 @@ feel free to contact creative.		</div> <!-- .intro-description -->
 
     <div class="download-button">
       <a class="btn btn-info btn-lg" href="#contact"><i class="fa fa-paper-plane"></i>Send me message</a>
-      <!--<a class="btn btn-primary btn-lg" href="#"><i class="fa fa-download"></i>Download my cv</a>-->
+      <!--<button class="btn btn-primary btn-lg" id="cmd"><i class="fa fa-download"></i>Download my cv</buton>-->
+      <!--<a class="btn btn-primary btn-lg" href="http://pdf-ace.com/pdfme?cache=1&cache_for=86400" target="_blank">Save as PDF</a>-->
     </div>
 </div>
 
@@ -355,9 +355,7 @@ feel free to contact creative.		</div> <!-- .intro-description -->
 
         <div class="col-md-12  ">
             <div class="resume-title">
-                <h3 style="<br />
-<b>Notice</b>:  Undefined variable: education_title_color in <b>/var/www/html/demo/wp/iamx/wp-content/themes/iamx/visual-composer/shortcodes/tt_resume_section.php</b> on line <b>19</b><br />
-">Education</h3>
+                <h3>Education</h3>
             </div>
             <div class="resume">
                 <ul class="timeline">
@@ -460,49 +458,54 @@ feel free to contact creative.		</div> <!-- .intro-description -->
 
 	</div></div></div></div></section><section data-vc-parallax="1.5" data-vc-parallax-image="http://104.131.177.38/demo/wp/iamx/wp-content/uploads/2015/11/hire-bg-1.jpg" class="vc_row section-wrapper vc_custom_1465280214674 vc_row-has-fill vc_row-o-content-middle vc_row-flex vc_general vc_parallax vc_parallax-content-moving"><div class="tt-overlay" style="background-color: rgba(104,195,163,0.7)"></div><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="font-size: 36px;color: #ffffff;text-align: center" class="vc_custom_heading vc_custom_1460352398196">I'm available for freelance project</h2><div class="vc_btn3-container vc_btn3-center"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-white" href="#contact" title="" target="_self">GET HIRED</a></div>
 </div></div></div></div></section><section id="contact" class="vc_row section-wrapper vc_custom_1467136533390"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-    <div class="section-intro  text-center  vc_custom_1460353252369">
+    <div class="section-intro  text-center  vc_custom_1460353252369" id="cont">
         <h2 style="" class="section-title wow fadeInUp">Get in touch</h2>
 
                 
         
         
     </div> <!-- .section-intro -->
-
+    <?php 
+        if(isset($_GET) && !empty($_GET)){ $alert = $_GET['success']; if ($alert == "yes"){ ?>
+            <div class="alert alert-success">
+                <strong>Message Sent!</strong> <!--
+            --></div>
+            
+        <?php
+        }}
+    ?>
 <div class="vc_row wpb_row vc_inner vc_row-fluid contact-section"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><h3 style="font-size: 14px;line-height: 28px;text-align: left" class="vc_custom_heading vc_custom_1464627285804">SEND ME A MESSAGE</h3><div role="form" class="wpcf7" id="wpcf7-f3297-p2320-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"></div>
-<form action="/demo/wp/iamx/#wpcf7-f3297-p2320-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="3297" />
-<input type="hidden" name="_wpcf7_version" value="4.4.2" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3297-p2320-o1" />
-<input type="hidden" name="_wpnonce" value="5ac61820ae" />
-</div>
+<div class="screen-reader-response"></div>    
+
+<form action="mail_contact.php" method="post" class="wpcf7-form">
+
+
 <div class="form-group">
       <label>Name</label><br />
-      <span class="wpcf7-form-control-wrap text-129"><input type="text" name="text-129" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="required" aria-required="true" aria-invalid="false" /></span>
+      <span class="wpcf7-form-control-wrap text-129"><input type="text" name="name" value="" size="40" required = "required" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="required" aria-required="true" aria-invalid="false"/></span>
     </div>
 <div class="form-group">
       <label>Email</label><br />
-      <span class="wpcf7-form-control-wrap email-459"><input type="email" name="email-459" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email form-control" id="email" aria-invalid="false" /></span>
+      <span class="wpcf7-form-control-wrap email-459"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email form-control" id="email" aria-invalid="false" required/></span>
     </div>
 <div class="form-group">
       <label>Subject</label><br />
-      <span class="wpcf7-form-control-wrap text-130"><input type="text" name="text-130" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="subject" aria-required="true" aria-invalid="false" /></span>
+      <span class="wpcf7-form-control-wrap text-130"><input type="text" name="sub" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="subject" aria-required="true" aria-invalid="false" required/></span>
     </div>
 <div class="form-group">
       <label>Message</label><br />
-      <span class="wpcf7-form-control-wrap textarea-962"><textarea name="textarea-962" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" id="message" aria-invalid="false"></textarea></span>
+      <span class="wpcf7-form-control-wrap textarea-962"><textarea name="msg" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" id="message" aria-invalid="false" required></textarea></span>
     </div>
 <p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit btn btn-primary" /></p>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="wpcf7-response-output wpcf7-display-none"></div></form> 
+                </div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
 		<div class="wpb_wrapper">
 			            <div class="row center-xs">
               <div class="col-sm-6">
                 <i class="fa fa-map-marker"></i>
-                <address>
-                  <strong>House No. 270</strong>
+                <address> 
+                  <strong>House No. 270></strong>
                   Sector-28, Gurugram,<br>
                   Haryana, India<br>
                 </address>
@@ -552,7 +555,7 @@ feel free to contact creative.		</div> <!-- .intro-description -->
 var _wpcf7 = {"loaderUrl":"http:\/\/104.131.177.38\/demo\/wp\/iamx\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://104.131.177.38/demo/wp/iamx/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<!--<script type='text/javascript' src='http://104.131.177.38/demo/wp/iamx/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>-->
 <script type='text/javascript' src='http://104.131.177.38/demo/wp/iamx/wp-content/themes/iamx/js/bootstrap.min.js?ver=3.3.6'></script>
 <script type='text/javascript' src='http://104.131.177.38/demo/wp/iamx/wp-content/themes/iamx/js/owl.carousel.min.js'></script>
 <!--<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?sensor=false'></script>-->
@@ -577,7 +580,6 @@ var _wpcf7 = {"loaderUrl":"http:\/\/104.131.177.38\/demo\/wp\/iamx\/wp-content\/
 <!--<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>-->
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_SmqQjhmrtCIkjeWk6jpp_3ogg7b0CQs&callback=initMap"
   type="text/javascript"></script>
-
 <script>
       function initMap() {
         var myLatLng = {lat: 28.464650, lng: 77.062896};
@@ -590,9 +592,21 @@ var _wpcf7 = {"loaderUrl":"http:\/\/104.131.177.38\/demo\/wp\/iamx\/wp-content\/
         var marker = new google.maps.Marker({
           position: myLatLng,
           map: map,
-          title: 'Hello World!'
+          title: ''
         });
       }
     </script>
+   <?php 
+        if(isset($_GET) && !empty($_GET)){ $alert = $_GET['success']; if ($alert == "yes"){ ?>
+            <script type="text/javascript">
+                  function pageRedirect() {
+                    window.location.replace("http://codeshri.com/");
+                }      
+                setTimeout("pageRedirect()", 2000);
+            </script>
+            
+        <?php
+        }}
+    ?>
 </body>
 </html>
